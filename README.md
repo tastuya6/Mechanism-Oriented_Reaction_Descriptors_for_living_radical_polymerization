@@ -1,5 +1,5 @@
-# Mechanism-Oriented Reaction Descriptors for living radical polymerization
-Mechanism-Oriented Reaction Descriptors can be used to construct quantitative structure–property relationship (QSPR) models that are both highly predictive and interpretable for predicting the polydispersity index (PDI) of living radical polymerization (LRP) in nitroxide-mediated radical polymerization(NMP). Since the descriptor follows the mechanism of LRP focusing on the equilibrium constant for forming dormant species from catalyst and propagating species, it is expected to be adapted to other living radical approaches.
+# Mechanism-Oriented Reaction Descriptors for Dispersity Prediction in Nitroxide-Mediated Radical Polymerization Considering Mediator Stability
+Mechanism-Oriented Reaction Descriptors can be used to construct quantitative structure–property relationship (QSPR) models that are both highly predictive and interpretable for predicting the polydispersity index (PDI) of controlled radical polymerization (CRP) in nitroxide-mediated radical polymerization(NMP). Since the descriptor follows the mechanism of CRP focusing on the equilibrium constant for forming dormant species from catalyst and propagating species and stability of mediator, it is expected to be adapted to other living radical approaches.
 
 
 ### Reference: Mori T.; Mieda S.; Kodama K.; Miyao T.; Mechanism-Oriented Reaction Descriptors for the Prediction of the Polydispersity Index in Nitroxide-Mediated Radical Polymerization
@@ -26,9 +26,8 @@ The following libraries are necessary on top of [Python 3.7.16](https://www.pyth
   * 4_LOOCV_SVR：SVR with RBF kernel for comparison of model accuracy.
   * 5_LOOCV_SVR_tanimoto：SVR with tanimoto kernel for comparison of model accuracy.
   * 6_LOOCV_RF：RF for comparison of model accuracy.
-  * 7_AD：Exploring AD with Explanatory Variables
-  * 8_AD_after_removing_outliers_from_the_training_data：Exploring AD with Explanatory Variables after removing outliers from the training data.
-  * 9_LOOCV_ARD_dataset_1_predict_dataset3：Dataset 1 was used as training data to predict Dataset 3.
+  * 7_AD_after_removing_outliers_from_the_training_data：Exploring AD with Explanatory Variables after removing outliers from the training data.
+  * 8_predicting_test_data：Dataset 1&2 was used as training data to predict Dataset 3&4.
 - data
 - result 
 
