@@ -1,0 +1,77 @@
+,inner_R2,pred_y,observed_y,top10_features,top10_coefficients,residuals_loo,standardized_residuals,leverage
+24,0.8396263746351473,1.7986817660985734,2.45,"Index(['LUMO_dormant', 'CNC_angle_dormant', 'ΔH', 'Distance_N_O_dormant',
+       'NPA_O_mediator', 'Distance_C_O_dormant', 'Dihedral_angle_mediator',
+       'HOMO_dormant', 'SOMO_mediater'],
+      dtype='object')","[0.2, -0.18, -0.14, -0.12, 0.04, -0.01, 0.0, 0.0, 0.0]",0.6513182339014267,1.1024396514900416,0.3296616681112468
+25,0.8053464734910889,1.7828085074673616,1.8,"Index(['LUMO_dormant', 'CNC_angle_dormant', 'Distance_N_O_dormant',
+       'NPA_O_mediator', 'Distance_C_O_dormant', 'ΔH', 'HOMO_dormant',
+       'Dihedral_angle_mediator', 'SOMO_mediater'],
+      dtype='object')","[0.23, -0.12, -0.12, 0.11, -0.07, -0.05, -0.0, -0.0, 0.0]",0.017191492532638408,0.029098806159239057,0.5887523998628149
+26,0.7827800041359658,2.3946270096063755,2.05,"Index(['LUMO_dormant', 'Distance_N_O_dormant', 'CNC_angle_dormant',
+       'NPA_O_mediator', 'Distance_C_O_dormant', 'ΔH', 'SOMO_mediater',
+       'HOMO_dormant', 'Dihedral_angle_mediator'],
+      dtype='object')","[0.24, -0.17, -0.1, 0.09, -0.09, -0.02, 0.0, -0.0, 0.0]",-0.3446270096063757,-0.5833254169604721,0.6266467755750701
+27,0.8013266391907141,1.8526599165989217,1.9,"Index(['LUMO_dormant', 'CNC_angle_dormant', 'Distance_N_O_dormant',
+       'NPA_O_mediator', 'Distance_C_O_dormant', 'ΔH', 'HOMO_dormant',
+       'Dihedral_angle_mediator', 'SOMO_mediater'],
+      dtype='object')","[0.23, -0.13, -0.12, 0.11, -0.07, -0.06, -0.0, 0.0, 0.0]",0.0473400834010782,0.08012916317968884,0.2204981115496681
+28,0.7949069767402226,2.053287107555908,1.75,"Index(['LUMO_dormant', 'NPA_O_mediator', 'Distance_N_O_dormant',
+       'Distance_C_O_dormant', 'CNC_angle_dormant', 'ΔH', 'HOMO_dormant',
+       'Dihedral_angle_mediator', 'SOMO_mediater'],
+      dtype='object')","[0.24, 0.16, -0.13, -0.1, -0.09, -0.0, -0.0, 0.0, 0.0]",-0.3032871075559078,-0.5133523303233065,0.5424712045591098
+29,0.8032322405102765,1.6243991727373426,1.44,"Index(['LUMO_dormant', 'CNC_angle_dormant', 'NPA_O_mediator', 'ΔH',
+       'Distance_N_O_dormant', 'Distance_C_O_dormant', 'SOMO_mediater',
+       'Dihedral_angle_mediator', 'HOMO_dormant'],
+      dtype='object')","[0.24, -0.15, 0.1, -0.08, -0.07, -0.04, 0.0, -0.0, 0.0]",-0.18439917273734263,-0.31211925161360465,0.22230193485334135
+30a,0.8536864630942049,1.8606310778184625,2.52,"Index(['LUMO_dormant', 'Distance_N_O_dormant', 'CNC_angle_dormant',
+       'Distance_C_O_dormant', 'NPA_O_mediator', 'HOMO_dormant',
+       'SOMO_mediater', 'Dihedral_angle_mediator', 'ΔH'],
+      dtype='object')","[0.28, -0.14, -0.14, -0.1, 0.05, -0.0, 0.0, 0.0, 0.0]",0.6593689221815375,1.1160664740167445,0.43467513554064513
+30b,0.7664568398985097,2.875699961175446,2.25,"Index(['NPA_O_mediator', 'LUMO_dormant', 'Distance_N_O_dormant',
+       'Distance_C_O_dormant', 'ΔH', 'HOMO_dormant', 'SOMO_mediater',
+       'Dihedral_angle_mediator', 'CNC_angle_dormant'],
+      dtype='object')","[0.19, 0.18, -0.15, -0.12, -0.06, -0.0, 0.0, -0.0, 0.0]",-0.6256999611754459,-1.0590774390019426,0.569333648716507
+31,0.8083645309979117,1.6001305758131674,1.75,"Index(['LUMO_dormant', 'NPA_O_mediator', 'Distance_N_O_dormant',
+       'CNC_angle_dormant', 'Distance_C_O_dormant', 'ΔH', 'HOMO_dormant',
+       'Dihedral_angle_mediator', 'SOMO_mediater'],
+      dtype='object')","[0.23, 0.13, -0.12, -0.1, -0.09, -0.06, -0.0, -0.0, 0.0]",0.14986942418683258,0.2536732232719134,0.5085145124679276
+32,0.6055613652153039,2.2603145283506816,3.81,"Index(['NPA_O_mediator', 'Distance_N_O_dormant', 'LUMO_dormant',
+       'Distance_C_O_dormant', 'ΔH', 'SOMO_mediater',
+       'Dihedral_angle_mediator', 'HOMO_dormant', 'CNC_angle_dormant'],
+      dtype='object')","[0.19, -0.16, 0.14, -0.01, -0.0, 0.0, 0.0, 0.0, 0.0]",1.5496854716493185,2.6230414294570745,0.6554776458532254
+33,0.7960240704608548,1.6322852288722158,1.4,"Index(['LUMO_dormant', 'Distance_N_O_dormant', 'ΔH', 'CNC_angle_dormant',
+       'Distance_C_O_dormant', 'NPA_O_mediator', 'HOMO_dormant',
+       'Dihedral_angle_mediator', 'SOMO_mediater'],
+      dtype='object')","[0.24, -0.19, -0.11, -0.08, -0.07, 0.0, -0.0, 0.0, 0.0]",-0.23228522887221592,-0.39317254367382964,0.8987877770890489
+35,0.7949592283509179,1.6286986860245727,1.45,"Index(['LUMO_dormant', 'CNC_angle_dormant', 'NPA_O_mediator', 'ΔH',
+       'Distance_N_O_dormant', 'Distance_C_O_dormant',
+       'Dihedral_angle_mediator', 'HOMO_dormant', 'SOMO_mediater'],
+      dtype='object')","[0.23, -0.12, 0.12, -0.1, -0.07, -0.05, -0.0, 0.0, 0.0]",-0.17869868602457273,-0.30247044668562717,0.343946541280878
+36,0.8396784677285984,1.3922150274047689,1.55,"Index(['LUMO_dormant', 'Distance_N_O_dormant', 'NPA_O_mediator',
+       'CNC_angle_dormant', 'Distance_C_O_dormant', 'ΔH', 'SOMO_mediater',
+       'HOMO_dormant', 'Dihedral_angle_mediator'],
+      dtype='object')","[0.25, -0.13, 0.11, -0.11, -0.1, -0.07, 0.0, -0.0, 0.0]",0.15778497259523117,0.2670713042321774,0.3752979177183339
+37,0.798052424859264,1.5107180259670745,1.5,"Index(['LUMO_dormant', 'CNC_angle_dormant', 'Distance_N_O_dormant',
+       'NPA_O_mediator', 'Distance_C_O_dormant', 'ΔH', 'HOMO_dormant',
+       'Dihedral_angle_mediator', 'SOMO_mediater'],
+      dtype='object')","[0.21, -0.13, -0.12, 0.11, -0.07, -0.06, -0.0, 0.0, 0.0]",-0.010718025967074496,-0.01814163368500306,0.7536051622917369
+38,0.856390013765362,1.9139533640378597,1.55,"Index(['LUMO_dormant', 'CNC_angle_dormant', 'NPA_O_mediator',
+       'Distance_C_O_dormant', 'Distance_N_O_dormant', 'ΔH', 'SOMO_mediater',
+       'Dihedral_angle_mediator', 'HOMO_dormant'],
+      dtype='object')","[0.23, -0.17, 0.15, -0.12, -0.05, -0.01, 0.01, 0.0, 0.0]",-0.3639533640378596,-0.6160377507092041,0.5810001764222293
+39,0.7668120742931626,2.602666656539915,2.8,"Index(['LUMO_dormant', 'NPA_O_mediator', 'Distance_N_O_dormant',
+       'CNC_angle_dormant', 'Distance_C_O_dormant', 'ΔH', 'HOMO_dormant',
+       'Dihedral_angle_mediator', 'SOMO_mediater'],
+      dtype='object')","[0.23, 0.12, -0.11, -0.1, -0.08, -0.05, -0.0, 0.0, 0.0]",0.1973333434600848,0.3340119945489277,0.3820991157794402
+40,0.8802318048266792,3.0985580155789543,1.95,"Index(['LUMO_dormant', 'Distance_N_O_dormant', 'HOMO_dormant',
+       'NPA_O_mediator', 'ΔH', 'CNC_angle_dormant', 'Distance_C_O_dormant',
+       'Dihedral_angle_mediator'],
+      dtype='object')","[0.31, -0.17, -0.12, 0.11, -0.1, -0.05, -0.04, 0.0]",-1.1485580155789543,-1.9440817598891156,0.5970489243052568
+41,0.9294472714633004,1.205885254006425,2.1,"Index(['Dihedral_angle_mediator', 'CNC_angle_dormant', 'LUMO_dormant',
+       'Distance_C_O_dormant', 'SOMO_mediater', 'HOMO_dormant', 'ΔH',
+       'NPA_O_mediator', 'Distance_N_O_dormant'],
+      dtype='object')","[-0.26, -0.26, 0.13, -0.12, 0.11, 0.0, 0.0, 0.0, 0.0]",0.894114745993575,1.5134038902317068,0.8575292439776161
+42,0.7155076101802074,1.7417680597134224,1.7,"Index(['LUMO_dormant', 'Distance_N_O_dormant', 'NPA_O_mediator',
+       'Distance_C_O_dormant', 'ΔH', 'HOMO_dormant', 'SOMO_mediater',
+       'Dihedral_angle_mediator', 'CNC_angle_dormant'],
+      dtype='object')","[0.22, -0.16, 0.15, -0.1, -0.06, -0.02, 0.0, -0.0, 0.0]",-0.041768059713422456,-0.07069779839888471,0.5123521040459038
