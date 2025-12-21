@@ -2,7 +2,7 @@
 Mechanism-Oriented Reaction Descriptors can be used to construct quantitative structure–property relationship (QSPR) models that are both highly predictive and interpretable for predicting the dispersity of controlled radical polymerization (CRP) in nitroxide-mediated radical polymerization(NMP). Since the descriptor follows the mechanism of CRP focusing on the equilibrium constant for forming dormant species from catalyst and propagating species and stability of mediator, it is expected to be adapted to other CRP approaches.
 
 
-### Reference: Mori T.; Mieda S.; Kodama K.; Miyao T.; Mechanism-Oriented Reaction Descriptors for the Prediction of the Polydispersity Index in Nitroxide-Mediated Radical Polymerization
+### Reference: Mori T.; Mieda S.; Kodama K.; Miyao T.; Mechanism-Oriented Reaction Descriptors for Dispersity Prediction in Nitroxide-Mediated Radical Polymerization Considering Mediator Stability
 
 ## Getting Started
 ### Prerequisites
